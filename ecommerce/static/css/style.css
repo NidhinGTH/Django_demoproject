@@ -1,0 +1,26 @@
+body {
+    background-color: #6F9469;
+    font-family: "Neuton", serif;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #B7CAB4;
+    padding: 10px;
+    margin: 0 5px;
+
+    font-weight: bold;
+    font-style: normal;
+}
+
+.footer {
+    background-color: #B7CAB4;
+    padding: 20px 0;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+

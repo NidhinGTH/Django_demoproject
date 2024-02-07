@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles', 'cart', 'search', 'shop',
 ]
-LOGIN_URL='shop:userlogin'
+LOGIN_URL='shop:user_login'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
